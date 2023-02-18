@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "iostream": "cpp",
+        "__config": "cpp",
+        "algorithm": "cpp",
+        "cstdio": "cpp",
+        "cwchar": "cpp",
+        "fstream": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "__mutex_base": "cpp",
+        "ostream": "cpp",
+        "iosfwd": "cpp",
+        "istream": "cpp"
+    }
+}
